@@ -1,0 +1,6 @@
+free number = 5
+free hello = 'hello world'
+
+gomu number
+gomu hello
+gomu 'done'

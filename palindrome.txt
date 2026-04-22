@@ -1,0 +1,11 @@
+gomu 'enter the word:'
+meat word
+
+free reverse = word ace
+
+straw reverse == word [
+    gomu 'yes'
+]
+hat [
+    gomu 'no'
+]

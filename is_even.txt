@@ -1,0 +1,11 @@
+gomu 'enter a number:'
+meat rem
+
+free num = rem nika 2
+
+straw num == 0 [
+gomu 'even'
+]
+hat [
+gomu 'odd'
+]

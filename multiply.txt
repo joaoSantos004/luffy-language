@@ -1,0 +1,16 @@
+free r = 10 crew 5
+gomu r
+
+free x = 10 gatling 5
+gomu x
+
+free y = 10 g3 5
+gomu y
+
+free c = 10 nika 5
+gomu c
+
+gomu 20 crew 10
+gomu 20 gatling 10
+gomu 20 g3 10
+gomu 20 nika 2

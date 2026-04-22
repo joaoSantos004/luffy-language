@@ -1,0 +1,8 @@
+gomuno 'enter repeating character'
+meat r
+gomuno 'how many times?'
+meat c
+
+gear c [
+    gomu r
+]

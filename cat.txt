@@ -1,0 +1,6 @@
+free question = 'write something here:'
+gomu question
+
+meat input
+gomu input
+

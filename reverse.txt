@@ -1,0 +1,2 @@
+free word = 'franky'
+gomu word ace
