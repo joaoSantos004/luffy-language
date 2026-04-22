@@ -48,7 +48,7 @@ jython interpreter.py is_even.txt
 
 # Variables:
 
-`free x = 5`
+`free x = 5` \
 `free name = 'Luffy'`
 
 # User input:
