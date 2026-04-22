@@ -49,44 +49,44 @@ jython interpreter.py is_even.txt
 # Variables:
 
 `free x = 5` \
-`free name = 'Luffy'`
+`free name = 'Luffy'`\
 
 # User input:
 
-`meat user_input`
+`meat user_input`\
 
 # Printing:
 
-`gomuno 'Hello'`
-`gomu 'A'`
-`gomu 'B'`
-`gomuno ''`
+`gomuno 'Hello'`\
+`gomu 'A'`\
+`gomu 'B'`\
+`gomuno ''`\
 
 # Operations:
 
-`free x = 5 crew 3`
-`free y = 10 g3 4`
-`free z = 6 gatling 7`
-`free r = 9 nika 2`
+`free x = 5 crew 3`\
+`free y = 10 g3 4`\
+`free z = 6 gatling 7`\
+`free r = 9 nika 2`\
 
 # Reversing strings:
 
-`free backwards = word ace`
+`free backwards = word ace`\
 
 # If/else statement:
 
-`straw rem == 0 [
-gomuno 'even'
-]
-hat [
-gomuno 'odd'
-]`
+`straw rem == 0 [\
+gomuno 'even'\
+]\
+hat [\
+gomuno 'odd'\
+]`\
 
 # Loop
 
-`gear 5 [
-gomu '*'
-]`
+`gear 5 [\
+gomu '*'\
+]`\
 
 
 ## Author : Victor Santos
