@@ -46,47 +46,61 @@ jython interpreter.py is_even.txt
 
 ## Syntax examples
 
-# Variables:
+### Variables
 
-`free x = 5` \
-`free name = 'Luffy'`
+```txt
+free x = 5
+free name = 'Luffy'
+```
 
-# User input:
+### User input
 
-`meat user_input`
+```txt
+meat user_input
+```
 
-# Printing:
+### Printing
 
-`gomuno 'Hello'`\
-`gomu 'A'`\
-`gomu 'B'`\
-`gomuno ''`
+```txt
+gomuno 'Hello'
+gomu 'A'
+gomu 'B'
+gomuno ''
+```
 
-# Operations:
+### Operations
 
-`free x = 5 crew 3`\
-`free y = 10 g3 4`\
-`free z = 6 gatling 7`\
-`free r = 9 nika 2`
+```txt
+free x = 5 crew 3
+free y = 10 g3 4
+free z = 6 gatling 7
+free r = 9 nika 2
+```
 
-# Reversing strings:
+### Reversing strings
 
-`free backwards = word ace`
+```txt
+free backwards = word ace
+```
 
-# If/else statement:
+### If/else statement
 
-`straw rem == 0 [\
-gomuno 'even'\
-]\
-hat [\
-gomuno 'odd'\
-]`
+```txt
+straw rem == 0 [
+gomuno 'even'
+]
+hat [
+gomuno 'odd'
+]
+```
 
-# Loop
+### Loop
 
-`gear 5 [\
-gomu '*'\
-]`
+```txt
+gear 5 [
+gomu '*'
+]
+```
 
 
 ## Author : Victor Santos
