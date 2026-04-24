@@ -71,10 +71,10 @@ gomuno ''
 ### Operations
 
 ```txt
-free x = 5 crew 3
-free y = 10 g3 4
-free z = 6 gatling 7
-free r = 9 nika 2
+free x = 5 crew 3 (result = 8)
+free y = 10 g3 4 (result = 6)
+free z = 6 gatling 7 (result = 42)
+free r = 9 nika 2 (result = 1)
 ```
 
 ### Reversing strings
